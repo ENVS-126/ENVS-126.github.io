@@ -6,13 +6,16 @@ website:
   title: "ENVS 126"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - href: https://docs.google.com/document/d/1kCxlDhWE-Z2g_mvr3AA3Eia_pvZxSNP3crng0T8HgOo/edit?usp=sharing
+        text: Syllabus
+      - href: assignments.qmd
+        text: Assignments
+      - href: resources.qmd
+        text: Resources
 
 format:
   html:
-    theme: cosmo
+    theme: custom.scss
     css: styles.css
     toc: true
 

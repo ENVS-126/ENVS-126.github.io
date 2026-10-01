@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
     "section": "",
-    "text": "About this site"
+    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nDescription\n\n\n\n\n\n\nGuidelines and policies on using AI\n\n\nOpenness about using AI is good, actually!\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -12,5 +12,82 @@
     "title": "Advanced Statistics for Environmental Studies",
     "section": "",
     "text": "Winter 2027\nThis is CURRENTLY IN DEVELOPMENT"
+  },
+  {
+    "objectID": "assignments.html",
+    "href": "assignments.html",
+    "title": "Assignments",
+    "section": "",
+    "text": "Title\n\n\nDue date\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "resources/genAI.html",
+    "href": "resources/genAI.html",
+    "title": "Guidelines and policies on using AI",
+    "section": "",
+    "text": "Generative AI tools like ChatGPT, Claude, Copilot, etc. can help solve a lot of coding problems: if you’re stuck and don’t know where to start, if you have code that keeps giving you an error, etc. - most of these issues can be solved using AI.\nAdditionally, we (the teaching team) are not delusional! We know you are using AI! The key to effective use of generative AI tools in environmental studies is to be honest about its use."
+  },
+  {
+    "objectID": "resources/genAI.html#why-use-ai",
+    "href": "resources/genAI.html#why-use-ai",
+    "title": "Guidelines and policies on using AI",
+    "section": "",
+    "text": "Generative AI tools like ChatGPT, Claude, Copilot, etc. can help solve a lot of coding problems: if you’re stuck and don’t know where to start, if you have code that keeps giving you an error, etc. - most of these issues can be solved using AI.\nAdditionally, we (the teaching team) are not delusional! We know you are using AI! The key to effective use of generative AI tools in environmental studies is to be honest about its use."
+  },
+  {
+    "objectID": "resources/genAI.html#why-wouldnt-you-use-ai-in-this-class",
+    "href": "resources/genAI.html#why-wouldnt-you-use-ai-in-this-class",
+    "title": "Guidelines and policies on using AI",
+    "section": "Why wouldn’t you use AI in this class?",
+    "text": "Why wouldn’t you use AI in this class?\nIf you’re just starting out learning how to code, we recommend not using generative AI tools. You will likely retain a lot more information by googling, asking for help from classmates, meeting with An or Amanda, or literally doing anything other than using a generative AI tool. In our experience, the conversations and discussions around materials and the struggle of sifting through a lot of information to try different things out is really effective for retaining information.\nAdditionally, while gen AI can quickly come up with code, it’s not always what you would expect, or what we expect to see in your assignments. It’s straightforward to see if it works - if the output is what you want, then the code works - but there are specifics in each assignment that you as a student enrolled in the class will know that an AI tool will not."
+  },
+  {
+    "objectID": "resources/genAI.html#if-i-want-to-use-ai-what-am-i-allowed-to-do",
+    "href": "resources/genAI.html#if-i-want-to-use-ai-what-am-i-allowed-to-do",
+    "title": "Guidelines and policies on using AI",
+    "section": "If I want to use AI, what am I allowed to do?",
+    "text": "If I want to use AI, what am I allowed to do?\nIf you want to use an AI tool, you may use it to:\n\nTo brainstorm or clarify your understanding of the assignment (e.g. “I have this idea but I’m not sure if it’s right. Can you help me figure out if it applies to this assignment?”)\n\nTo outline your approach or plan your workflow (e.g. “Can you help me figure out how to start this problem?”)\n\nTo clarify or deepen understanding of technical concepts (e.g. “What does this function do in my use case?”)\n\nTo generate or refine code snippets (e.g. “I wrote this code but I think it’s too long. How can I condense it?”)\n\nTo debug or troubleshoot code (e.g. “I wrote this code but it’s not working. What’s wrong with it?”)\n\nTo edit or improve the clarity, structure, or tone of my written responses (e.g. “I wrote this text to summarize a test but it’s too long. Can you help me shorten it to 1-2 sentences?”)\n\nTo check my reasoning, results, or interpretation of findings (e.g. “I interpreted a statistical test in this way. Is my interpretation correct?”)"
+  },
+  {
+    "objectID": "resources/genAI.html#what-am-i-not-allowed-to-do",
+    "href": "resources/genAI.html#what-am-i-not-allowed-to-do",
+    "title": "Guidelines and policies on using AI",
+    "section": "What am I not allowed to do?",
+    "text": "What am I not allowed to do?\nYou are not allowed to use generative AI to produce new code for you to copy-paste into your assignments. Additionally, you may not use AI to generate new writing for you. For example, these prompts would not be allowed:\n\n“Write me code to visualize a boxplot.”\n\n“Write the description of the results of this ANOVA.”\n\nAll code and writing in your assignments should be generated by you alone to start out with."
+  },
+  {
+    "objectID": "resources/genAI.html#im-ready-to-use-ai-as-a-supportive-tool-when-completing-assignments.-what-should-i-do-when-i-submit",
+    "href": "resources/genAI.html#im-ready-to-use-ai-as-a-supportive-tool-when-completing-assignments.-what-should-i-do-when-i-submit",
+    "title": "Guidelines and policies on using AI",
+    "section": "I’m ready to use AI as a supportive tool when completing assignments. What should I do when I submit?",
+    "text": "I’m ready to use AI as a supportive tool when completing assignments. What should I do when I submit?\nAll assignments need to include a generative AI statement of use, linked on Canvas on the Resources page and in the assignment portal.\nKeep in mind that unreported or disallowed use of AI tools will result in an incomplete mark on an assignment and the assignment will not be eligible for revision or resubmission."
+  },
+  {
+    "objectID": "resources/genAI.html#im-not-sure-if-what-im-using-ai-for-is-allowed.-what-do-i-do",
+    "href": "resources/genAI.html#im-not-sure-if-what-im-using-ai-for-is-allowed.-what-do-i-do",
+    "title": "Guidelines and policies on using AI",
+    "section": "I’m not sure if what I’m using AI for is allowed. What do I do?",
+    "text": "I’m not sure if what I’m using AI for is allowed. What do I do?\nTalk to An or Allison!"
+  },
+  {
+    "objectID": "resources/genAI.html#what-happens-if-i-use-ai-in-a-way-that-does-not-align-with-class-policies",
+    "href": "resources/genAI.html#what-happens-if-i-use-ai-in-a-way-that-does-not-align-with-class-policies",
+    "title": "Guidelines and policies on using AI",
+    "section": "What happens if I use AI in a way that does not align with class policies?",
+    "text": "What happens if I use AI in a way that does not align with class policies?\nYou will have a conversation with me (An). I hope we never have to have such a conversation! Ideally, you’d be checking in with the instructional team before submitting your assignments to make sure you’re operating within class policies."
+  },
+  {
+    "objectID": "resources/genAI.html#im-troubled-about-ai-use-because-of-the-environmental-impacts-disadvantages-brain-deterioration-etc.-what-do-i-do",
+    "href": "resources/genAI.html#im-troubled-about-ai-use-because-of-the-environmental-impacts-disadvantages-brain-deterioration-etc.-what-do-i-do",
+    "title": "Guidelines and policies on using AI",
+    "section": "I’m troubled about AI use, because of the environmental impacts, disadvantages, brain deterioration, etc. What do I do?",
+    "text": "I’m troubled about AI use, because of the environmental impacts, disadvantages, brain deterioration, etc. What do I do?\nAgain, talk to An or Allison! We are here to help navigate this new landscape, and figure out a plan that works for you, whether that’s sparingly using AI, not using it at all and relying on other resources, etc."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]

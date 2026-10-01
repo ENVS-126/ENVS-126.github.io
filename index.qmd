@@ -1,5 +1,14 @@
 ---
 title: "Advanced Statistics for Environmental Studies"
+format: 
+   html:
+     include-in-header: 
+        text: |
+          <style>
+          #title-block-header.quarto-title-block.default .quarto-title .title {
+          color: #375377;
+          }
+          </style>
 ---
 
 Winter 2027
